@@ -1,7 +1,8 @@
 ---
 layout: about
 title: about
-permalink:
+permalink: /
+subtitle: / 
 
 profile:
   align: right
