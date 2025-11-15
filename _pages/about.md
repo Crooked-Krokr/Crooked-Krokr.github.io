@@ -1,8 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
-subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+permalink:
 
 profile:
   align: right
@@ -28,7 +27,7 @@ latest_posts:
 ---
 # About Me
 
-I'm a Principal Engineer with over 15 years of experience building robust data pipelines and IoT infrastructure that operate in the world's most challenging environments—from North Sea subsea installations to remote Scottish hillsides.
+I'm a Principal Engineer with over 15 years of experience building robust data pipelines and IoT infrastructure that operate in the world's most challenging environments. I've worked from North Sea subsea installations to remote Scottish hillsides.
 
 My career has been defined by a unique ability to transfer life-critical systems expertise across sectors. I started in oil & gas, designing electronics for extreme downhole conditions and leading subsea condition monitoring campaigns. That foundation in reliability engineering proved invaluable when I transitioned to agricultural technology, where I've spent the past four years building Scotland's largest rural IoT deployment.
 
@@ -50,7 +49,7 @@ I hold an MEng in Artificial Intelligence & Electronics from Robert Gordon Unive
 
 ## Current Focus
 
-I'm particularly interested in opportunities where cross-sector IoT expertise delivers strategic value—whether that's agricultural technology, industrial automation, conservation systems, or pharmaceutical applications. I thrive in roles that combine technical depth with strategic impact, building infrastructure that scales whilst maintaining reliability in challenging deployment environments.
+I'm particularly interested in opportunities where cross-sector IoT expertise delivers strategic value; whether that's agricultural technology, industrial automation, conservation systems, or pharmaceutical applications. I thrive in roles that combine technical depth with strategic impact, building infrastructure that scales whilst maintaining reliability in challenging deployment environments.
 
 Based in Fraserburgh, Scotland, I'm open to remote work and collaborative projects that leverage my unique combination of oil & gas rigour and agricultural technology innovation.
 
