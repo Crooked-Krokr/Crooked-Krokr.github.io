@@ -43,9 +43,7 @@
       "startDate": "2020-08-01",
       "endDate": "2021-08-01",
       "summary": "Delivered project-based technology consultancy for agricultural, subsea, and industrial clients. Managed full project lifecycle independently, from requirements gathering to deployment.",
-      "highlights": [
-        "Built and maintained client relationships supporting repeat and referral business"
-      ]
+      "highlights": ["Built and maintained client relationships supporting repeat and referral business"]
     },
     {
       "name": "Raptor Oil Ltd",
@@ -54,9 +52,7 @@
       "startDate": "2018-03-01",
       "endDate": "2020-08-01",
       "summary": "Designed high-temperature electronics for harsh downhole environments. Developed embedded control systems and validation protocols.",
-      "highlights": [
-        "Improved product reliability with IPC-compliant quality assurance processes"
-      ]
+      "highlights": ["Improved product reliability with IPC-compliant quality assurance processes"]
     },
     {
       "name": "Viper Innovations",
@@ -158,14 +154,7 @@
       "name": "Programming & Tools",
       "level": "Proficient",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python",
-        "JavaScript",
-        "C/C++",
-        "SQL",
-        "Cloud Platforms",
-        "Linux/Windows"
-      ]
+      "keywords": ["Python", "JavaScript", "C/C++", "SQL", "Cloud Platforms", "Linux/Windows"]
     },
     {
       "name": "Standards & Compliance",
@@ -190,22 +179,12 @@
     {
       "name": "Agricultural Technology",
       "icon": "fa-solid fa-seedling",
-      "keywords": [
-        "IoT Infrastructure",
-        "Sensor Networks",
-        "Rural Connectivity",
-        "Data Processing Pipelines"
-      ]
+      "keywords": ["IoT Infrastructure", "Sensor Networks", "Rural Connectivity", "Data Processing Pipelines"]
     },
     {
       "name": "Industrial Systems",
       "icon": "fa-solid fa-industry",
-      "keywords": [
-        "Condition Monitoring",
-        "Asset Management",
-        "Embedded Systems",
-        "Automation"
-      ]
+      "keywords": ["Condition Monitoring", "Asset Management", "Embedded Systems", "Automation"]
     }
   ],
   "references": [],
@@ -213,11 +192,7 @@
     {
       "name": "National Rural Technology Infrastructure",
       "summary": "Built comprehensive technology platform supporting Scottish rural cooperatives. Delivered national-scale IoT infrastructure managing environmental data from 1500+ remote sensors across challenging Scottish terrain.",
-      "highlights": [
-        "Architected complete ERP system",
-        "Created automated device provisioning",
-        "Solved rural connectivity challenges"
-      ],
+      "highlights": ["Architected complete ERP system", "Created automated device provisioning", "Solved rural connectivity challenges"],
       "startDate": "2021-09-01",
       "endDate": "2025-11-01",
       "url": ""
@@ -225,10 +200,7 @@
     {
       "name": "Automated Condition Monitor Reporting Platform",
       "summary": "Designed and deployed automated reporting system for subsea condition monitoring reducing manual effort by 95%. System became standard for client submissions.",
-      "highlights": [
-        "95% reduction in manual effort",
-        "Became client standard system"
-      ],
+      "highlights": ["95% reduction in manual effort", "Became client standard system"],
       "startDate": "2017-01-01",
       "endDate": "2017-12-01",
       "url": ""
@@ -236,10 +208,7 @@
     {
       "name": "High-Temperature Downhole Electronics",
       "summary": "Led development of electronics systems operating in extreme downhole conditions. Solved technical challenges including thermal management and data communication in hostile environments.",
-      "highlights": [
-        "Extreme environment operation",
-        "Thermal management solutions"
-      ],
+      "highlights": ["Extreme environment operation", "Thermal management solutions"],
       "startDate": "2018-03-01",
       "endDate": "2020-08-01",
       "url": ""
@@ -247,10 +216,7 @@
     {
       "name": "Subsea Infrastructure Diagnostics",
       "summary": "Managed complex diagnostic campaigns identifying and resolving critical infrastructure issues. Coordinated multi-vendor teams to restore production capability on major installations.",
-      "highlights": [
-        "Multi-vendor coordination",
-        "Critical infrastructure resolution"
-      ],
+      "highlights": ["Multi-vendor coordination", "Critical infrastructure resolution"],
       "startDate": "2014-01-01",
       "endDate": "2016-12-01",
       "url": ""

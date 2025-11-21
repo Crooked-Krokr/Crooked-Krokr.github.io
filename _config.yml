@@ -4,9 +4,9 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Paul
-middle_name: 
+middle_name:
 last_name: Crooks
-contact_note: 
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -50,7 +50,7 @@ footer_fixed: true
 search_enabled: true
 socials_in_search: true
 posts_in_search: true
-bib_search: false  # Default=true
+bib_search: false # Default=true
 
 # Dimensions
 max_width: 930px
@@ -632,12 +632,12 @@ jsonresume:
   - basics
   - work
   - education
-#  - publications
-#  - projects
-#  - volunteer
-#  - awards
+  #  - publications
+  #  - projects
+  #  - volunteer
+  #  - awards
   - certificates
   - skills
-#  - languages
+  #  - languages
   - interests
   - references

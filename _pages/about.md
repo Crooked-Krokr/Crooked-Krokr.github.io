@@ -2,7 +2,7 @@
 layout: about
 title: about
 #permalink: /about/
-# subtitle: 
+# subtitle:
 
 profile:
   align: right
@@ -26,6 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 # About Me
 
 I'm a Principal Engineer with over 15 years of experience building robust data pipelines and IoT infrastructure that operate in the world's most challenging environments. I've worked from North Sea subsea installations to remote Scottish hillsides.
@@ -56,4 +57,4 @@ Based in Fraserburgh, Scotland, I'm open to remote work and collaborative projec
 
 ---
 
-*Professional references and detailed project portfolio available upon request.*
+_Professional references and detailed project portfolio available upon request._
