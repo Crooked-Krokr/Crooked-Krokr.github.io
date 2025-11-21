@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://crooked-krokr.github.io/sitemap.xml
+Sitemap: https://crooked-krokr.github.io/about//sitemap.xml
